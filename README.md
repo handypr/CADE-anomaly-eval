@@ -24,4 +24,4 @@ This repository will be populated with complete code, notebooks, and result arti
 
 ## Contact
 
-Corresponding author: Silvester Dian Handy Permana (email di paper)
+Corresponding author: Silvester Dian Handy Permana (handy@trilogi.ac.id)
